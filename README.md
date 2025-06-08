@@ -5,8 +5,8 @@ NOTE: This lab fully supports the L2VPN control plane. The L2VPN data plane is p
 
 All features used in this lab are available in IOS XR 7.9.2. Functionality covered in this lab include:
 
-•	SRv6 Locator
-•	SRv6 IS-IS
-•	SRv6 IS-IS TI-LFA
-•	SRv6 Traffic Engineering using Flexible Algorithm
-•	SRv6 Services: L3VPN and L2VPN (EVPN)
+•	SRv6 Locator  
+•	SRv6 IS-IS  
+•	SRv6 IS-IS TI-LFA  
+•	SRv6 Traffic Engineering using Flexible Algorithm  
+•	SRv6 Services: L3VPN and L2VPN (EVPN)  

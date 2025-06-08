@@ -10,3 +10,5 @@ All features used in this lab are available in IOS XR 7.9.2. Functionality cover
 •	SRv6 IS-IS TI-LFA  
 •	SRv6 Traffic Engineering using Flexible Algorithm  
 •	SRv6 Services: L3VPN and L2VPN (EVPN)  
+
+The Docker image can be downloaded here: https://software.cisco.com/download/home/286331236/type/280805694/release/7.11.2
